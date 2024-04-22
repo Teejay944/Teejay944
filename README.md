@@ -11,6 +11,17 @@
 
 -📫 You can reach me [here](https://www.linkedin.com/in/olamide-tijani)
 
+💫 My Skills
+
+SQL (Structured Query Language)
+
+Microsoft Excel
+
+Power BI 
+
+Tableau 
+
+
 <!--
 **Teejay944/Teejay944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
